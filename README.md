@@ -1,2 +1,2 @@
 # wrtie-360
-This is a simple Sqlite Note App created as a memo
+This is a simple Sqlite Note App created in a form of a MEMO.
